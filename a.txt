@@ -1,0 +1,2 @@
+go chi do thi go
+go lan thu 2
